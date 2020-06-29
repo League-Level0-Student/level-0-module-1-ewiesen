@@ -1,1 +1,11 @@
 size(600,600);
+fill(255, 0, 0, 100);
+ellipse (225, 250, 250, 250);
+fill(0, 255, 0, 100);
+ellipse (200, 400, 250, 250);
+fill(0, 0, 255, 100);
+ellipse (350, 350, 250, 250);
+textSize(20);
+text("Friendly", 180, 220);
+text("Helpful", 350, 355);
+text("Kind", 130, 440);
